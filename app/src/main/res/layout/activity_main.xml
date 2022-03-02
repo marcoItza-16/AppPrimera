@@ -7,6 +7,7 @@
     tools:context=".MainActivity">
    //Comi
     //Comists
+    //whhw
 
     <TextView
         android:id="@+id/textView3"
